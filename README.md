@@ -30,7 +30,7 @@ deej project: https://github.com/omriharel/deej/
 
 # Schematic
 
-![Hardware schematic](assets/Schematic_deej-Rotary-Encoder-and-OLEDs.pdf)
+![Hardware schematic](assets/Schematic_deej-Rotary-Encoder-and-OLEDs.svg)
 
 # Enclosure
 
